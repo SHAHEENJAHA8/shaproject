@@ -55,7 +55,7 @@
     <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
   </p>
 </div>
-    <h1><center>Welcome to Aditya Group of educational institutions</center></h1>
+    <h1><center>Welcome to ADITYA Group of educational institutions</center></h1>
     <center><button type="button" class="btn btn-primary">Explore</button></center>
 
     <!-- Optional JavaScript -->
